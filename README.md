@@ -13,9 +13,9 @@ color_palette: Returning an instance of color box
 
 #Controls
 Once you run main.py
-click z - eraser
-click x - play/pause
-click c - clear the board
+1. click z - eraser
+2. click x - play/pause
+3. click c - clear the board
  
 # Note:
 1. Just run the main.py file.
